@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/chhaya-tomar/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/chhaya-tomar/DSA/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/chhaya-tomar/DSA/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/chhaya-tomar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/chhaya-tomar/DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/chhaya-tomar/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chhaya-tomar/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/chhaya-tomar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/chhaya-tomar/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/chhaya-tomar/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/chhaya-tomar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/chhaya-tomar/DSA/tree/master/0206-reverse-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/chhaya-tomar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/chhaya-tomar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
