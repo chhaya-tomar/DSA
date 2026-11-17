@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/chhaya-tomar/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/chhaya-tomar/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/chhaya-tomar/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/chhaya-tomar/DSA/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/chhaya-tomar/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/chhaya-tomar/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/chhaya-tomar/DSA/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/chhaya-tomar/DSA/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/chhaya-tomar/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/chhaya-tomar/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
