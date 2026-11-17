@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/chhaya-tomar/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/chhaya-tomar/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/chhaya-tomar/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/chhaya-tomar/DSA/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chhaya-tomar/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/chhaya-tomar/DSA/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/chhaya-tomar/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/chhaya-tomar/DSA/tree/master/0415-add-strings) |
 | [0989-add-to-array-form-of-integer](https://github.com/chhaya-tomar/DSA/tree/master/0989-add-to-array-form-of-integer) |
 ## Trie
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/chhaya-tomar/DSA/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/chhaya-tomar/DSA/tree/master/0415-add-strings) |
 ## Greedy
 |  |
 | ------- |
