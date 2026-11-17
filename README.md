@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/chhaya-tomar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/chhaya-tomar/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/chhaya-tomar/DSA/tree/master/0283-move-zeroes) |
+| [0989-add-to-array-form-of-integer](https://github.com/chhaya-tomar/DSA/tree/master/0989-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/chhaya-tomar/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/chhaya-tomar/DSA/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/chhaya-tomar/DSA/tree/master/0412-fizz-buzz) |
+| [0989-add-to-array-form-of-integer](https://github.com/chhaya-tomar/DSA/tree/master/0989-add-to-array-form-of-integer) |
 ## Trie
 |  |
 | ------- |
