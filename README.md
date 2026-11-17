@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/chhaya-tomar/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chhaya-tomar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/chhaya-tomar/DSA/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/chhaya-tomar/DSA/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/chhaya-tomar/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/chhaya-tomar/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/chhaya-tomar/DSA/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/chhaya-tomar/DSA/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/chhaya-tomar/DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/chhaya-tomar/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/chhaya-tomar/DSA/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/chhaya-tomar/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/chhaya-tomar/DSA/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/chhaya-tomar/DSA/tree/master/0136-single-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/chhaya-tomar/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/chhaya-tomar/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
