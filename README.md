@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/chhaya-tomar/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/chhaya-tomar/DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/chhaya-tomar/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/chhaya-tomar/DSA/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/chhaya-tomar/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/chhaya-tomar/DSA/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/chhaya-tomar/DSA/tree/master/0066-plus-one) |
 ## Trie
 |  |
 | ------- |
